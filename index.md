@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+ ## MUNACHI JOHNSON'S FIRST CS193 HOMEWORK
+
+ -The Instructors
+ - My Classmates
+ - The vibe
+ - The seats are comfy
+ - It isn't too hot in there.
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
